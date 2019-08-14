@@ -1,4 +1,4 @@
-<center><h1>Eve Online</h1></center>
+<h1><center>Eve Online</center></h1>
 <br><br><br>
 
 <h3>Ore Minning</h3>
