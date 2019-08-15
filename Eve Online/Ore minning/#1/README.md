@@ -13,7 +13,7 @@ This script was created for scientific purpose. Also this script is free, and yo
 - Create new macro in your Macro Express software.<br>
 - Look at the file " Ore Minning #1.txt " open.  https://github.com/andikasagala/Gaming/blob/master/Eve%20Online/Ore%20minning/%231/Ore%20Minning%20%231.txt <br>
 - Copy paste it all to your Macro Express input and then save.<br>
-Here the video how it is https://www.youtube.com/watch?v=C6kXpVc6KF4  <br>
+Here the video how it is. https://www.youtube.com/watch?v=C6kXpVc6KF4  <br>
 - You can set your own hotkey to any key. Inside the video, i was set it to " CTRL + ALT + SHIFT + 7 " to activate the "Ore Minning #1" <br>
 - Launch the Eve Online game, and then activate your gaming script with the previous hotkey.<br>
 Here is the video using that script inside eve online gaming ("coming soon...")
