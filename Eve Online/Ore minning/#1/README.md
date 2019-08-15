@@ -30,7 +30,7 @@ Here is the video using that script inside eve online gaming ("coming soon...")
 - Avoid using bot software for gaming, many bots was injected with virus, trojan, keylogger, backdoor, etc.<br>
 - Using scripting will help you thinking more smart also more freedom with your own logic/thinking method.<br><br><br>
 
-<h4>Next Feature:</h4><br>
+<h4>Next Feature:</h4>
 - Availble using AutoIt version. <br><br><br>
 
 <h4>Tested macros for scripting by Coder ( "Andika Sagala" ):</h4>
