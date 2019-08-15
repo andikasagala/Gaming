@@ -22,9 +22,9 @@ Here is the video using that script inside eve online gaming ("coming soon...")
 
 
 <h4>Useful for:</h4>
-- Gammer who getting bad health condition.<br>
-- Gammer who don't have time.<br>
-- Gammer who tired after playing online game for hours.<br><br><br>
+- Gammers who getting bad health condition.<br>
+- Gammers who don't have time.<br>
+- Gammers who tired after playing online game for hours.<br><br><br>
 
 <h4>Tips:</h4>
 - Avoid using bot software for gaming, many bots was injected with virus, trojan, keylogger, backdoor, etc.<br>
