@@ -6,7 +6,11 @@
 Needed tool:
 - Macro Express https://www.macros.com/
 
-
-
+How to use:
+- Download and install Macro Express from it's Company website https://www.macros.com/download.htm
+- Create new macro in your Macro Express software.
+- Look at the file " Ore Minning #1.txt " open and read it.
+- Copy paste it all to your Macro Express input and then save.
+Here the video how it is https://www.youtube.com/watch?v=C6kXpVc6KF4
 
 
