@@ -1,7 +1,7 @@
 <h1>Eve Online</h1>
 <br><br><br>
 
-<h3>Ore Minning</h3>
+<h3>Ore Minning #1</h3>
 
 This script was created for scientific purpose. Also this script is free, and you can modification it later using your own logic/style/condition.
 
