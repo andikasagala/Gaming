@@ -3,6 +3,7 @@
 
 <h3>Ore Minning #1 v0.1a</h3>
 
+0.9 sec<br>
 This script was created for scientific purpose. Also this script is free, and you can modification it later using your own logic/style/condition.<br><br>
 
 <h4>Needed tool:</h4>
