@@ -1,9 +1,9 @@
 <h1>Eve Online</h1>
 <br><br><br>
 
-<h3>Ore Minning</h3>
+<h3>Ore Minning #1</h3>
 
-This script was created for scientific purpose.
+This script was created for scientific purpose. Also this script is free, and you can modification it later using your own logic/style/condition.
 
 Needed tool:
 - Macro Express https://www.macros.com/
@@ -25,3 +25,11 @@ Useful for:
 - Gamer who getting bad health condition.
 - Gamer who don't have time.
 - Gamer who tired after playing game online hours.
+
+Tips:
+- Avoid using bot software for gaming, many bots was injected with virus, trojan, keylogger, backdoor, etc.
+- Using scripting will help you thinking more smart also more freedom with your own logic/thinking method.
+
+Tested macros for scripting by Coder (Andika Sagala):
+- Macro Express https://www.macros.com/
+- AutoIt https://www.autoitscript.com
