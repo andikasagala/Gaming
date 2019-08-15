@@ -1,7 +1,7 @@
 <h1>Eve Online</h1>
 <br><br><br>
 
-<h3>Ore Minning #1</h3>
+<h3>Ore Minning #1 v0.1a</h3>
 
 This script was created for scientific purpose. Also this script is free, and you can modification it later using your own logic/style/condition.<br><br>
 
@@ -29,6 +29,9 @@ Here is the video using that script inside eve online gaming ("coming soon...")
 <h4>Tips:</h4>
 - Avoid using bot software for gaming, many bots was injected with virus, trojan, keylogger, backdoor, etc.<br>
 - Using scripting will help you thinking more smart also more freedom with your own logic/thinking method.<br><br><br>
+
+<h4>Next Features:</h4><br>
+- Availble using AutoIt version. <br><br><br>
 
 <h4>Tested macros for scripting by Coder ( "Andika Sagala" ):</h4>
 - Macro Express https://www.macros.com/<br>
