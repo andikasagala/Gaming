@@ -9,3 +9,5 @@ Asteroids and ore list:
 https://wiki.eveuniversity.org/Asteroids_and_ore
 
 
+Science & Art backsound:
+https://www.youtube.com/watch?v=Sorn-3DHTC8
