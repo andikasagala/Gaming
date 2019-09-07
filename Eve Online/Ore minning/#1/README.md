@@ -23,9 +23,9 @@ Here is the video using that script inside eve online gaming include how to make
 
 
 <h4>Useful for:</h4>
-- Gammers who getting bad health condition.<br>
-- Gammers who don't have time.<br>
-- Gammers who tired after playing online game for hours.<br><br><br>
+- Gamers who getting bad health condition.<br>
+- Gamers who don't have time.<br>
+- Gamers who tired after playing online game for hours.<br><br><br>
 
 <h4>Tips:</h4>
 - Avoid using bot software for gaming, many bots was injected with virus, trojan, keylogger, backdoor, etc.<br>
